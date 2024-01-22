@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NRtgbS1x2jVEtLxFZao0LstpY/0EendRApNpfE1ZCqlnRu+uxne+av5SNzuLHGaArp2eiP/09wzehxQAxkAqg==",
+  "success": true,
+  "projectFilePath": "E:\\PC\\Learn\\Programing\\C#\\Console\\QuestPdfTest\\QuestPdf.Domain\\QuestPdf.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

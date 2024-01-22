@@ -1,0 +1,12 @@
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\bin\Debug\net6.0\QuestPdf.Domain.deps.json
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\bin\Debug\net6.0\QuestPdf.Domain.dll
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\bin\Debug\net6.0\QuestPdf.Domain.pdb
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.csproj.AssemblyReference.cache
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.AssemblyInfoInputs.cache
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.AssemblyInfo.cs
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.csproj.CoreCompileInputs.cache
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.dll
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\refint\QuestPdf.Domain.dll
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\QuestPdf.Domain.pdb
+E:\PC\Learn\Programing\C#\Console\QuestPdfTest\QuestPdf.Domain\obj\Debug\net6.0\ref\QuestPdf.Domain.dll

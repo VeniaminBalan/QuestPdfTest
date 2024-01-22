@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestPdfTest", "QuestPdfTest\QuestPdfTest.csproj", "{BA005112-6C01-471F-84B5-C5FE8A801DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestPdf.Domain", "QuestPdf.Domain\QuestPdf.Domain.csproj", "{8A63E302-2ABE-4B43-9B11-FF4D99636C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA005112-6C01-471F-84B5-C5FE8A801DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA005112-6C01-471F-84B5-C5FE8A801DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA005112-6C01-471F-84B5-C5FE8A801DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA005112-6C01-471F-84B5-C5FE8A801DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A63E302-2ABE-4B43-9B11-FF4D99636C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A63E302-2ABE-4B43-9B11-FF4D99636C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A63E302-2ABE-4B43-9B11-FF4D99636C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A63E302-2ABE-4B43-9B11-FF4D99636C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

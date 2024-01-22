@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "AM0qofdPoxM7Cg2taJ7v+BUFCUlhmdlABB52xHznSvjC6TlU5MfsjwdhWTgPaIj6qdjs2houc1loZ/GckiuV0w==",
+  "success": true,
+  "projectFilePath": "E:\\PC\\Learn\\Programing\\C#\\Console\\QuestPdfTest\\QuestPdfTest\\QuestPdfTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\harfbuzzsharp\\7.3.0\\harfbuzzsharp.7.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0\\harfbuzzsharp.nativeassets.macos.7.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0\\harfbuzzsharp.nativeassets.win32.7.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\questpdf\\2023.10.1\\questpdf.2023.10.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.6\\skiasharp.harfbuzz.2.88.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
